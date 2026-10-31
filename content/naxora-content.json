@@ -1,0 +1,89 @@
+{
+    "schema": 1,
+    "contentVersion": 1,
+    "releaseTag": "content-1",
+    "channel": "stable",
+    "publishedAt": "2026-10-31T22:14:51Z",
+    "minAppVersionCode": 6,
+    "maxAppVersionCode": 0,
+    "unityVersion": "6000.6.7f1",
+    "buildTarget": "Android",
+    "previousContentVersion": 0,
+    "notes": "Content release 1",
+    "catalog": {
+        "id": "catalog",
+        "type": "catalog",
+        "required": true,
+        "group": "",
+        "version": 0,
+        "name": "catalog_1.1.0_17388b90f4d0.bin",
+        "bundleName": "",
+        "url": "https://github.com/FutureSpace23/naxora-ar-releases/releases/download/content-1/catalog_1.1.0_17388b90f4d0.bin",
+        "sizeBytes": 4451,
+        "sha256": "17388b90f4d00a3f6dbe9fc65d57d22e46815fba5e46177f51e62c4dcb63c4d8"
+    },
+    "catalogHash": {
+        "id": "catalog-hash",
+        "type": "catalogHash",
+        "required": true,
+        "group": "",
+        "version": 0,
+        "name": "catalog_1.1.0_0dbab87ba58e.hash",
+        "bundleName": "",
+        "url": "https://github.com/FutureSpace23/naxora-ar-releases/releases/download/content-1/catalog_1.1.0_0dbab87ba58e.hash",
+        "sizeBytes": 32,
+        "sha256": "0dbab87ba58e05974b6724c5459312a7e1c22c38d5cda2ae1d8427647c911035"
+    },
+    "files": [
+        {
+            "id": "remote_animations_assets_all",
+            "type": "bundle",
+            "required": true,
+            "group": "Remote_Animations",
+            "version": 0,
+            "name": "remote_animations_assets_all_82ef02af904a.bundle",
+            "bundleName": "remote_animations_assets_all.bundle",
+            "url": "https://github.com/FutureSpace23/naxora-ar-releases/releases/download/content-1/remote_animations_assets_all_82ef02af904a.bundle",
+            "sizeBytes": 25061,
+            "sha256": "82ef02af904ad1453d225ba4e5684e757097ba5305bdb3399b1aa0a30215b76a"
+        },
+        {
+            "id": "remote_materials_assets_all",
+            "type": "bundle",
+            "required": true,
+            "group": "Remote_Materials",
+            "version": 0,
+            "name": "remote_materials_assets_all_c77ec8b79fd2.bundle",
+            "bundleName": "remote_materials_assets_all.bundle",
+            "url": "https://github.com/FutureSpace23/naxora-ar-releases/releases/download/content-1/remote_materials_assets_all_c77ec8b79fd2.bundle",
+            "sizeBytes": 668764,
+            "sha256": "c77ec8b79fd254dae025cdd37128306ff7ce3664b6287360e936e6c98446c7d4"
+        },
+        {
+            "id": "remote_motor_model_assets_all",
+            "type": "bundle",
+            "required": true,
+            "group": "Remote_Motor_Model",
+            "version": 0,
+            "name": "remote_motor_model_assets_all_54c87e0f4d8c.bundle",
+            "bundleName": "remote_motor_model_assets_all.bundle",
+            "url": "https://github.com/FutureSpace23/naxora-ar-releases/releases/download/content-1/remote_motor_model_assets_all_54c87e0f4d8c.bundle",
+            "sizeBytes": 9879566,
+            "sha256": "54c87e0f4d8cd9748226742da03c3df2124b9859e758f11f0271e5d47dc7004b"
+        }
+    ],
+    "videos": [
+        {
+            "id": "nexora_v010_full",
+            "type": "video",
+            "required": true,
+            "group": "",
+            "version": 1,
+            "name": "nexora_v010_full_2422dbe95fb9.mp4",
+            "bundleName": "",
+            "url": "https://github.com/FutureSpace23/naxora-ar-releases/releases/download/content-1/nexora_v010_full_2422dbe95fb9.mp4",
+            "sizeBytes": 13285326,
+            "sha256": "2422dbe95fb98366969a5ea219791055838399dfc490938792ed5b97500863ae"
+        }
+    ]
+}
